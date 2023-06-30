@@ -1,0 +1,5 @@
+print(10*10+100)
+print(1.2-2.42*2.8)
+print(True)
+print(False)
+print("Python")
